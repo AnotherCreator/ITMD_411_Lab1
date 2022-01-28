@@ -1,2 +1,2 @@
-# ITMD_411_lab1
+# ITMD_411_Lab1
 Bank Account Simulator
